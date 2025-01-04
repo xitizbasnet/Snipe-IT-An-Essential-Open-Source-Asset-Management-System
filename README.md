@@ -1,4 +1,4 @@
-# Snipe-IT-An-Essential-Open-Source-Asset-Management-System
+# Snipe-IT: An Essential Open Source Asset Management System
 Snipe-IT: An Essential Open Source Asset Management System
 
 As an IT professional, I’m pleased to introduce Snipe-IT, a robust open-source asset management system designed to streamline the management of hardware, software, and licenses within your organization.
